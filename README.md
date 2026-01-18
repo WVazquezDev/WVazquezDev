@@ -20,6 +20,10 @@ Disfruto la programación tanto como la buena convivencia con amigos; creo firme
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+ 
+ ### 📊 Estadisticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WVazquezDev&layout=compact)
+
 
 ### Contactame:
 
