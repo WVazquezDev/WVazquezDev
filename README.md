@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy William Vazquez
 
-<!--
-**WVazquezDev/WVazquezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero de Software** originario de **México**, con pasión por crear soluciones digitales funcionales y bien diseñadas.
+Actualmente trabajo como programador en **InfinetCloud**, donde participo activamente en el desarrollo y mejora de proyectos.
 
-Here are some ideas to get you started:
+Disfruto la programación tanto como la buena convivencia con amigos; creo firmemente que el crecimiento profesional también va de la mano con el aprendizaje colaborativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+
+- 💼 Programador en activo, actualmente en mi segundo año de experiencia profesional.
+- 🌐 Enfocado principalmente en desarrollo web.
+- 💬 ¿Tienes una idea o visión? Con gusto puedo ayudarte a darle forma; si algo no lo sé, estaré encantado de investigarlo.
+- 📫 Puedes contactarme con total confianza para cualquier duda o colaboración.
+
+### Lenguajes y herramientas:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+
+### Contactame:
+
+- Sitio web: 🛠️ _En desarrollo_
+- Email: [![Email](https://img.shields.io/badge/wvazquez0dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wvazquez0dev@gmail.com)
